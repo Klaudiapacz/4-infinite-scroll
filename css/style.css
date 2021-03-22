@@ -1,0 +1,12 @@
+/* body {
+    background-color:rgb(203, 162, 223);
+} */
+
+#preloader {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    display: none;
+    height: 300px;
+    width: 300px;
+}
